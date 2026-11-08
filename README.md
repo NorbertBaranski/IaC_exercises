@@ -1,0 +1,2 @@
+# IaC_exercises
+bicep
